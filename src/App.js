@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit Welome to React .
+          welcome to React
         </p>
         <a
           className="App-link"
